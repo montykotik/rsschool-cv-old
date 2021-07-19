@@ -1,1 +1,1 @@
-# rsschool-cv
+https://montykotik.github.io/rsschool-cv/cv

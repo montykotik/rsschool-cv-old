@@ -15,3 +15,15 @@ I believe that I can succeed, because I have been involved in sports and *I know
 
 ## Skills
 Basics of HTML, CSS. I study JS, Git.
+
+## Code
+There is no code yet, but I'm working on it :smiley:
+
+## Work experience
+I have no experience as a programmer. I have been working as an engineer for almost a year now.
+
+## Education
+Higher education (BNTU)
+
+## English
+English level - А1, on the way to А2. *I studied French at school.*

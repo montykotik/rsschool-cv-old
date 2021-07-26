@@ -23,9 +23,10 @@ section{
     width: 70%;
 }
 footer{
-    padding: 1px;
-    text-align: center;
+    padding: 1%;
     background-color: #adadad;
+    display: flex;
+    justify-content: center;
 }
 h1{
     margin-bottom: 0;
@@ -52,4 +53,13 @@ a{
 }
 #hide:hover{
     color: #000;
+}
+.logo{
+    width: 70px;
+    margin-right:100px;
+}
+.gh{
+    width: 70px;
+    margin-left:100px;
+    margin-top: -3px;
 }

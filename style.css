@@ -1,0 +1,40 @@
+*{
+    font-family: 'DM Sans', sans-serif;
+}
+body{
+    margin: 0 auto;
+}
+header {
+    text-align: left;
+    position: relative;
+    margin-left: 2%;
+}
+section{
+    margin: 0 auto;
+    width: 70%;
+}
+.footer{
+    text-align: center;
+}
+h1{
+    margin-bottom: 0;
+}
+h2{
+    margin-top: 0;
+}
+h3{
+    text-transform: uppercase;
+}
+a{
+    text-decoration: none;
+}
+.photo{
+    margin: 0 auto;
+    width: 400px;
+}
+#hide{
+    font-size: 3px;
+}
+#hide:hover{
+    font-size: 1em;
+}
